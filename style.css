@@ -1,0 +1,11 @@
+.parent{
+    background-color: red;
+}
+
+.grandchild{
+    background-color: blue;
+}
+
+.child{
+    background-color: green;
+}
